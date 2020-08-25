@@ -1,1 +1,1 @@
-# django-rest-boilerplate
+# Django RestAPI Boilerplate
