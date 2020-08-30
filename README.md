@@ -6,6 +6,7 @@
 python -m venv [envName]
 source [envName]/bin/activate
 pip install django djangorestframework
+```
 
 2. Create a new project
 ```
